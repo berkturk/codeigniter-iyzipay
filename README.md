@@ -1,9 +1,9 @@
 ## iyzipay (by iyzico) Integration for Codeigniter
 
 ### Documentation
-[https://dev.iyzipay.com/tr][https://dev.iyzipay.com/tr]
+https://dev.iyzipay.com/tr
 ### Dependence
-[https://github.com/iyzico/iyzipay-php][https://github.com/iyzico/iyzipay-php]
+https://github.com/iyzico/iyzipay-php
 
 
 ### Usage
